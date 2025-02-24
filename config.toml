@@ -10,11 +10,11 @@ googleAnalytics = ""
 [params]
 # Style options: default (pink), blue, green, pink, red, sea, violet
 # Use custom.css for your custom styling
-style = "default"
+style = "sea"
 description = "The Official website of Variable Interactive"
 copyright = "&copy;2023-2024 Variable Interactive"
 sidebarAbout = [
-  "Change is Variable!",
+  "Try new things—keep it Variable!",
   "I like to play and make games"
 ]
 # Contact page
@@ -56,6 +56,7 @@ url = "contact/"
 
 [params.social]
 email         = "pkfayezakhtar@gmail.com"
+mastodon      = "https://mastodon.gamedev.place/@variable"
 twitter       = "https://x.com/Variable_ind"
 instagram     = "https://www.instagram.com/doctor_pixello"
 github        = "https://github.com/Variable-Interactive"
