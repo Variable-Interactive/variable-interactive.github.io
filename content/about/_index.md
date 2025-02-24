@@ -1,14 +1,15 @@
 +++
-date = "2023-06-28T14:27:06+05:30"
-title = "Something about myself"
+date = "2025-02-24T17:00:06+05:30"
+title = "Something about Myself"
 +++
 
 Hello 👋
-I am a hobyist who likes to make **Indie Games** and participate in **Game Jams**.
-Most of my games can be found [Here](https://variable-interactive.itch.io/).
-I also have a [Youtube Channel](https://www.youtube.com/channel/UCkc4E2bJkQ91kejNKKd_U2g).
+I like making **Indie Games** and participating in **Game Jams** as a hobby (Also a contributor to [Pixelorama](https://github.com/Orama-Interactive/Pixelorama). Definitely try it if you're into Pixel-Art 😁).
+Most of my creations can be found [Here](https://variable-interactive.itch.io/).
+I also have a [Youtube Channel](https://www.youtube.com/@VariableInteractive) (consider subscribing if you can 🙏).
 
 #### Education
 
-* FSc from [Tameer-e-Wattan](https://tameeriwattan.edu.pk/).
-* Bs in Physics at [Govt. Post Graduate College Atd](https://gpgc-atd.edu.pk/).
+* FSc from [Tameer-e-Wattan, Atd.](https://tameeriwattan.edu.pk/).
+* Bs in Physics at [Govt. Post Graduate College, Atd.](https://gpgc-atd.edu.pk/).
+* Doing MPhil from [Quaid-e-Azam University, Islamabad](https://qau.edu.pk/)
