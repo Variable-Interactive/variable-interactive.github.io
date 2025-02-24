@@ -8,6 +8,7 @@ weight = 0
 +++
 
 As [Pixelorama](https://orama-interactive.itch.io/pixelorama) v1.1 is nearing release with it's splash screen event, now in progress (you can participate in it as well, just join it's [discord server](https://discord.gg/GTMtr8s)), I've also been busy these few days making a new extension for the next version.
+<!--more-->
 
 The idea was to basically create a skeletal animation system using Pixelorama's group layers like bones in a skeleton.
 
