@@ -12,10 +12,10 @@ googleAnalytics = ""
 # Use custom.css for your custom styling
 style = "default"
 description = "The Official website of Variable Interactive"
-copyright = "&copy;2023 Variable Interactive"
+copyright = "&copy;2023-2024 Variable Interactive"
 sidebarAbout = [
   "Change is Variable!",
-  "I like to make and play games"
+  "I like to play and make games"
 ]
 # Contact page
    # Since this template is static, the contact form uses www.formspree.io as a
@@ -56,7 +56,7 @@ url = "contact/"
 
 [params.social]
 email         = "pkfayezakhtar@gmail.com"
-twitter       = "https://twitter.com/Variable_ind"
+twitter       = "https://x.com/Variable_ind"
 instagram     = "https://www.instagram.com/doctor_pixello"
-github        = "https://github.com/Variable-ind"
-youtube       = "https://www.youtube.com/channel/UCkc4E2bJkQ91kejNKKd_U2g"
+github        = "https://github.com/Variable-Interactive"
+youtube       = "https://www.youtube.com/@VariableInteractive"
