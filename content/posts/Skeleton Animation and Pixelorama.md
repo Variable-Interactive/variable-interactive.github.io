@@ -16,8 +16,6 @@ At this point the extension is pretty much complete (Apart from some bug fixes).
 (source: [Skeletor's README](https://github.com/Variable-Interactive/Skeletor/blob/master/README.md))
 
 ## Highlight Features:
-<div align=center>
-  
 ### 1. Basic movement:
 You can move any bone in the skeleton and it's children will move with it.
   
@@ -43,4 +41,3 @@ https://github.com/user-attachments/assets/c3918ef7-fc7e-4c4f-ac00-5f4dc283e094
 You can quickly place bones to roughly over their intended sprites with a single click.
 
 https://github.com/user-attachments/assets/3f2f8328-a181-4533-80fe-db4521b1140d
-</div>
