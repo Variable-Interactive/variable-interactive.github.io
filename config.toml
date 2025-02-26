@@ -1,5 +1,5 @@
 baseurl = "https://variable-interactive.github.io/"
-title = "Variable Interactive"
+title = "<img src='https://avatars.githubusercontent.com/u/124778031?s=200&v=4'>Variable Interactive"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
