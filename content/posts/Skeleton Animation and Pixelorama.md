@@ -19,7 +19,7 @@ At this point the extension is pretty much complete (Apart from some bug fixes).
 ### 1. Basic movement:
 You can move any bone in the skeleton and it's children will move with it.
 
-{{< video src="vids/basic_movement" >}}
+{{< video src="../../static/vids/basic_movement" >}}
 
 ### 2. Bone Chaining:
 In chaining mode you are only allowed to rotate a bone. the children of the bones move with parent bone but preserve their rotation.
