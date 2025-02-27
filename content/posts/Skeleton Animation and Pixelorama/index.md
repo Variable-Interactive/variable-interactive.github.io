@@ -19,17 +19,24 @@ At this point the extension is pretty much complete (Apart from some bug fixes).
 ### 1. Basic movement:
 You can move any bone in the skeleton and it's children will move with it.
 
-{{< video src="../../static/vids/basic_movement.mp4" >}}
+{{< video src="_vid_basic_movement" height="300px">}}
 
 ### 2. Bone Chaining:
 In chaining mode you are only allowed to rotate a bone. the children of the bones move with parent bone but preserve their rotation.
 
+{{< video src="_vid_bone_chain" height="300px">}}
+
 ### 3. Tweening Support
 Gererate In-Betweens from a chosen start frame to the current frame.
+
+{{< video src="_vid_Tweening" height="300px">}}
 
 ### 4. Draw <=> Pose Mode:
 You can switch between the two views with ease.
 
+{{< video src="_vid_draw_pose" height="300px">}}
 
 ### 5. Quick set bones:
 You can quickly place bones to roughly over their intended sprites with a single click.
+
+{{< video src="_vid_quick_set" height="300px">}}
