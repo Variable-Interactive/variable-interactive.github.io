@@ -56,7 +56,7 @@ url = "contact/"
 
 [[params.navlinks]]
 name = ".well-known"
-url = ".well-known/"
+url = "well-known/"
 
 [params.social]
 email         = "pkfayezakhtar@gmail.com"
