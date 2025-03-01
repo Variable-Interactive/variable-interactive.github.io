@@ -54,10 +54,6 @@ url = "about/"
 name = "Get in touch"
 url = "contact/"
 
-[[params.navlinks]]
-name = ".well-known"
-url = ".well-known/"
-
 [params.social]
 email         = "pkfayezakhtar@gmail.com"
 mastodon      = "https://mastodon.gamedev.place/@variable"
