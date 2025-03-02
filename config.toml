@@ -43,7 +43,7 @@ email = "pkfayezakhtar@gmail.com"
 # Nav links in the side bar
 [[params.navlinks]]
 name = "Home"
-url = "posts/"
+url = ".well-known/"
 home = true
 
 [[params.navlinks]]
