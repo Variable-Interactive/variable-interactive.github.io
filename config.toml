@@ -11,8 +11,8 @@ googleAnalytics = ""
 # Style options: default (pink), blue, green, pink, red, sea, violet
 # Use custom.css for your custom styling
 style = "sea"
-description = "The Official website of Variable Interactive"
-copyright = "&copy;2023-2024 Variable Interactive"
+description = "The official website of Variable Interactive"
+copyright = "&copy;2023-2025 Variable Interactive"
 sidebarAbout = [
   "Try new things—keep it Variable!",
   "I like to play and make games"
